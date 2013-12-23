@@ -1,0 +1,10 @@
+[Activity]
+name = Txtbooks
+bundle_id = com.SAMdroid.evil.project
+icon = activity-jamedit
+exec = sugar-activity txt.TextBookActivity
+show_launcher = no
+mime_types = application/x-tar
+activity_version = 1
+license = GPLv2+
+summary = Read evil stuff about destroying planets
